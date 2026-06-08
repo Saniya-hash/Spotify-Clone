@@ -1,2 +1,10 @@
-# Spotify-Clone
-Developed a responsive Spotify-inspired UI using HTML and CSS. Designed structured components like navigation bar, playlist and Music player. Implemented responsive layout for improved user experience across different screen sizes.
+Spotify-Clone
+A responsive Spotify-inspired web interface built using HTML and CSS.
+Features:
+. Sidebar navigation
+. Playlist
+. Music player interface
+. Responsive design
+Technologies used:
+. HTML
+. CSS
